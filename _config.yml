@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: PuiKiu SMP Servers | Wiki
 # (string) Description of your wiki
-description: 
+description: Wiki of the Star and Sun SMP Servers.
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -43,7 +43,7 @@ use_prose_io: true
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
+google_cse_token: 413fd375b24584773
 
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
