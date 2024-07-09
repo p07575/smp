@@ -6,9 +6,8 @@ Pui Kiu College Minecraft SMP is a Minecraft multiplayer server offering a survi
 
 - **Game Version:** 1.21
 - **Server Type:** Survival Multiplayer (SMP)
-
-- **Website:** smp.jasonxiang.net
 - **IP Address and ports are not Public**
+- **Website:** smp.jasonxiang.net
 ## Features
 
 - Vanilla Minecraft gameplay
