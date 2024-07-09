@@ -23,7 +23,7 @@ Pui Kiu College Minecraft SMP is a Minecraft multiplayer server offering a survi
 
 ## Community
 
-PuiKiu SMP Server boasts an active player base with a focus on collaboration and creativity. Players are encouraged to participate in community builds and events.
+Pui Kiu College Minecraft SMP Server boasts an active player base with a focus on collaboration and creativity. Players are encouraged to participate in community builds and events.
 
 ## How to Join
 
