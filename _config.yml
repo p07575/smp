@@ -3,7 +3,7 @@ title: PuiKiu SMP Server
 # (string) Description of your wiki
 description: Wiki of the Star and Sun SMP Servers.
 # (boolean) disable edit functionalities (edit/delete/add pages)
-disable_edit: false
+disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -23,7 +23,7 @@ show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: ../assets/Pui_Kiu_College.jpg
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: G-JEVDD74HMR
 # (string) folder where wiki pages are stored, it's needed for tool buttons
