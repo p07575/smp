@@ -1,25 +1,26 @@
-# Pui Kiu College Minecraft SMP
+# Pui Kiu College MineCraft SMP
 
-Pui Kiu College Minecraft SMP is a Minecraft multiplayer server offering a survival gameplay experience. 
+Pui Kiu College MineCraft SMP is a MineCraft multiplayer server offering a survival gameplay experience. 
 
 ## Server Information
 
 - **Game Version:** 1.21
 - **Server Type:** Survival Multiplayer (SMP)
-- **IP Address and ports are not Public**
-- **Website:** smp.jasonxiang.net
+- **IP Address and Port:** Visit Discord server for more details
+- **Wiki:** smp.jasonxiang.net
 
 ## Features
 
-- Vanilla Minecraft gameplay
+- Vanilla MineCraft gameplay
 - Player-driven economy
 - Community projects
 - Regular events
+- Bedrock compatibility
 
 ## Rules
 
 1. No cheating/hacking.
-2. No inviting people outside of PKC into this discord server or in the Minecraft server.
+2. Do not inviting people outside of PKC into the Discord server or the MineCraft server.
 
 ## Community
 
